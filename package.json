@@ -1,0 +1,28 @@
+{
+  "name": "vuecli-scaffold",
+  "version": "1.0.0",
+  "description": "A tool to create vue components based on your template",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidouglas/vuecli-scaffold.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli"
+  ],
+  "author": "Simon Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidouglas/vuecli-scaffold/issues"
+  },
+  "homepage": "https://github.com/sidouglas/vuecli-scaffold#readme",
+  "devDependencies": {
+    "handlebars": "^4.0.10",
+    "shelljs": "^0.7.8"
+  }
+}
